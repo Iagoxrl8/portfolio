@@ -1,30 +1,16 @@
-# Portfólio · Iago Henrique Santos
+# Iago Santos · Dados e IA
 
-**Dados que movem a fábrica.** Controladoria Fabril, Business Intelligence e automação com Inteligência Artificial.
+**Hiperportfólio:** https://iagoxrl8.github.io/portfolio/
 
-🔗 **Acesse o portfólio:** https://iagoxrl8.github.io/portfolio/
+Sou Iago Henrique Santos, formando em Análise e Desenvolvimento de Sistemas. Especialista em transformar dados brutos em decisão e em automações com IA generativa, engenharia de prompt e FP&A.
 
-> Os projetos são reais. Todos os números, nomes e valores exibidos são **fictícios**, criados para demonstração, por governança e segurança de dados.
+> As prévias são de sistemas reais criados para a Controladoria Fabril. Valores e nomes foram borrados por governança de dados.
 
-## Projetos
-
-### Painel 3D da Fábrica com IA
-Réplica 3D navegável da planta industrial, renderizada no navegador (HTML + Three.js), que unifica em uma única tela controles antes espalhados em planilhas e sistemas: OEE em tempo real, paradas de linha, materiais em produção e próximos da fila, ritmo diário, produtividade, MOD, refugo, acurácia de estoques, WIP e fluxo de estoque.
-
-### Time de QA: agentes de IA
-Time de agentes de IA em um escritório 3D, cada um com uma função automatizada:
-- **Analista de Dados:** analisa formulários, Excel e Power BI e gera insights.
-- **FP&A:** analisa custos e envia insights aos gestores por e-mail.
-- **Analista de Processos:** sugere planos de ação com responsável, prazo e data máxima de follow-up, encontra um horário livre na agenda de todos e marca a reunião com os dados já preparados.
-
-### Dashboards (versões de demonstração)
-| Dashboard | O que mostra |
-|---|---|
-| OEE e paradas | Disponibilidade, performance, qualidade e Pareto de paradas |
-| Refugo | Refugo por linha x meta, mês a mês e YTD |
-| WIP | Saldo em processo por dia e por etapa |
-| Ordens x B.O.M. | Consumo real x previsto na lista técnica, desvios e impacto financeiro |
-| Despesas | Orçado x realizado x forecast e despesa por peça |
+## Destaques
+- **Central Tecfil:** a junção de todos os projetos automatizados em uma central única.
+- **Planta 3D da Fábrica:** gêmeo digital com indicadores por área e modo TV.
+- **Escritório Time QA:** time de agentes de IA com funções próprias.
+- Mais 14 sistemas: SPQVC, Desvios, Refugo, WIP, Acuracidade, COGI, Ordens × BOM, Contagem Cíclica, Qualidade, Apropriação de MP, Estornos, Capacidade, Estoque Livre × Bloqueado e Consumíveis.
 
 ## Stack
-Power BI (DAX, modelagem) · SQL · Python · Excel avançado · SAP S/4HANA (PP) · Agentes de IA · Engenharia de prompt · Lean · Six Sigma · Kaizen
+Power BI · DAX · SQL · Python · Excel · SAP S/4HANA (PP) · Agentes de IA · Engenharia de prompt · FP&A · HTML/CSS/JS · Three.js · Lean · Six Sigma
