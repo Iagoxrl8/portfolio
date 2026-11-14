@@ -2,7 +2,7 @@
 
 **Dados que movem a fábrica.** Controladoria Fabril, Business Intelligence e automação com Inteligência Artificial.
 
-🔗 **Acesse o portfólio:** https://SEU-USUARIO.github.io/portfolio/
+🔗 **Acesse o portfólio:** https://iagoxrl8.github.io/portfolio/
 
 > Os projetos são reais. Todos os números, nomes e valores exibidos são **fictícios**, criados para demonstração, por governança e segurança de dados.
 
@@ -28,9 +28,3 @@ Time de agentes de IA em um escritório 3D, cada um com uma função automatizad
 
 ## Stack
 Power BI (DAX, modelagem) · SQL · Python · Excel avançado · SAP S/4HANA (PP) · Agentes de IA · Engenharia de prompt · Lean · Six Sigma · Kaizen
-
-## Como publicar (GitHub Pages)
-1. Crie um repositório público chamado `portfolio`.
-2. Envie os arquivos `index.html` e `README.md`.
-3. Em **Settings → Pages**, escolha a branch `main` e a pasta `/ (root)`.
-4. Em 1 a 2 minutos o site estará em `https://SEU-USUARIO.github.io/portfolio/`.
